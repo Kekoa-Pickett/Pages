@@ -12,7 +12,7 @@ from PySide2.QtGui import QFont, QColor, QStandardItemModel, QStandardItem, QKey
 
 My linkedin is attached [here](https://www.linkedin.com/in/kekoa-pickett).
 
-To get to my repository for CSE 110, [this link](Pages/README.md) takes you to my README doc for the class. As far as my future, I am currently open to most types of Computer Software with my favorites being:
+To get to my repository for CSE 110, [this link](README.md) takes you to my README doc for the class. As far as my future, I am currently open to most types of Computer Software with my favorites being:
 1. Game Design/ Virtual Reality
 2. Artificial Intellegence
 3. Software Engineering
