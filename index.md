@@ -10,7 +10,7 @@ from PySide2.QtGui import QFont, QColor, QStandardItemModel, QStandardItem, QKey
 
 ![Creative Electron](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMV-l3ldLZWvoOgyduQBOUuNHwO8pJVdHsVAt6bpZ&s)
 
-My linkedin is attached [here](www.linkedin.com/in/kekoa-pickett).
+My linkedin is attached [here](https://www.linkedin.com/in/kekoa-pickett).
 
 To get to my repository for CSE 110, [this link](Pages/README.md) takes you to my README doc for the class. As far as my future, I am currently open to most types of Computer Software with my favorites being:
 1. Game Design/ Virtual Reality
@@ -28,6 +28,7 @@ And **least** favorite topics include:
 ##  Personal
 I love sports, especially basketball and football. My favorite team is the Miami Heat. Sports and being active is a huge part of my life, but another thing I enjoy is helping inspire kids to achieve more than they are "_expected_" to accomplish. I have taught computer science lessons to some students in underprivledged schools which has been really cool to expand their minds. One good movie I actually watched semi-recently was _Spiderman-Across the Spider-Verse_ and my favorite quote was when Miles Morales says 
 > Nah, Imma do my own thing.
+
 ![- Miles Morales](https://preview.redd.it/whats-your-favorite-wrong-paint-job-v0-n1vnn2qfj3pb1.png?width=1073&format=png&auto=webp&s=be5549c1b94eb06830dd6fc38be27498654dd06a)
 
 I love to compete and test my limits whether in sports or anything else. I love to hear and learn from others so that I can imagine new possibilities based on what I hear.
