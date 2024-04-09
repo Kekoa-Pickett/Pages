@@ -1,4 +1,4 @@
-# Kekoa Pickett 
+# Kekoa Pickett-  [Programmer](https://github.com/Kekoa-Pickett/Pages/edit/LAB1/index.md#programmer), [Personal](https://github.com/Kekoa-Pickett/Pages/edit/LAB1/index.md#personal)
 
 ## Programmer
 I am in my third year and have been focused on learning a variety of types of computer science, including multiple languages and levels of software. I have internship experience one summer where I was a software engineer intern for the company Creative Electron in San Marcos, which is in the north part of San Diego. There, I used python and had to import things through the code:
